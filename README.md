@@ -124,7 +124,7 @@ WHERE o.customer_id = 1;
 ## ERD (Entity Relationship Diagram)
 
 ```markdown
-![ERD](https://github.com/user-attachments/assets/6b7e2424-726f-4566-a700-3794da0f9ca6)
+![Image](https://github.com/user-attachments/assets/6b7e2424-726f-4566-a700-3794da0f9ca6)
 ```
 
 ---
