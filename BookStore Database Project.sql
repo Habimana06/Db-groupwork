@@ -443,3 +443,4 @@ INSERT INTO author (first_name, last_name) VALUES
 ('Nadine', 'Gordimer'),
 ('Zadie', 'Smith'),
 ('Arthur', 'Conan Doyle');
+
